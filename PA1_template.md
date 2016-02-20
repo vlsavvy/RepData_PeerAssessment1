@@ -1,6 +1,6 @@
-# Peer Assessment 1, Reproducable Research
+# Peer Assessment 1, Reproducible Research
 
-**This document contains the completed work for peer assignment #1 for the Coursera Reproducable Research class.**
+**This document contains the completed work for peer assignment #1 for the Coursera Reproducible Research class.**
 
 ###Loading & Preprocessing Data
 
